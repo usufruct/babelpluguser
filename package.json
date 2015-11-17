@@ -1,0 +1,23 @@
+{
+  "name": "babelpluguser",
+  "private": true,
+  "version": "1.0.0",
+  "description": "let's see if a plugin works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usufruct/babelpluguser.git"
+  },
+  "author": "Michael A Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "abelplugs": "../babelplugs"
+  },
+  "bugs": {
+    "url": "https://github.com/usufruct/babelpluguser/issues"
+  },
+  "homepage": "https://github.com/usufruct/babelpluguser#readme"
+}
